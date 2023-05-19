@@ -6,7 +6,7 @@ dependencies:
  - python = 3.11.2
  - pip
  - pip:
-   - streamlit
+   - streamlit==1.22.0
    - pdf2image
    - opencv-python
    - scikit-image
